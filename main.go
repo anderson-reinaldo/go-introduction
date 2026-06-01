@@ -1,7 +1,7 @@
 package main
 
-import "full-cycle-curse/generics"
+import "full-cycle-curse/context"
 
 func main() {
-	generics.ExemploComGenerics()
+	context.Exec()
 }

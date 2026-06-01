@@ -1,5 +1,3 @@
-Seu material está bom, mas tem alguns erros de sintaxe do Go e dá para deixá-lo mais organizado e próximo da documentação oficial.
-
 # 📚 Anotações de Go (Golang)
 
 ## Variáveis
